@@ -36,3 +36,28 @@
 4-How many of the country names in the country table consist of 5 characters?
 
 5-How many of the city names in the city table end with the character 'R' or r?
+
+### Work 5
+1-List the 5 longest movies in the movie table whose title ends with the character 'n'.
+
+2-List the 5 movies (6,7,8,9,10) that are the second shortest in length (6,7,8,9,10) in the movie table and whose movie title ends with the character 'n'.
+
+3-Sort the first 4 data in descending order according to the last_name column in the customer table, provided that store_id is 1.
+
+### Work 6
+1-What is the average of the values ​​in the rental_rate column in the movie table?
+
+2-How many of the movies in the movie table start with the character 'C'?
+
+3-Among the movies in the movie table, how many minutes is the longest movie with a rental_rate value equal to 0.99?
+
+4-How many different replacement_cost values ​​are there for movies in the movie table that are longer than 150 minutes?
+
+### Work 7
+1-Group the movies in the movie table according to their rating values.
+
+2-When we group the movies in the movie table according to the replacement_cost column, list the replacement_cost value and the corresponding number of movies if the number of movies is more than 50.
+
+3-What are the customer numbers corresponding to the store_id values ​​in the customer table?
+
+4-After grouping the city data in the city table according to the country_id column, share the country_id information and the number of cities that contain the highest number of cities.
