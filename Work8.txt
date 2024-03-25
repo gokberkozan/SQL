@@ -1,0 +1,73 @@
+1)
+CREATE TABLE employee (
+    id INTEGER PRIMARY KEY,
+    name VARCHAR(50),
+    birthday DATE,
+    email VARCHAR(100)
+);
+
+2)
+insert into employee (id, name, birthday, email) values (1, 'Worden Streets', '1951-8-4', 'wstreets0@sina.com.cn');
+insert into employee (id, name, birthday, email) values (2, 'Caryn Brundale', '1930-1-8', 'cbrundale1@bigcartel.com');
+insert into employee (id, name, birthday, email) values (3, 'Dud Baskwell', '1959-10-6', 'dbaskwell2@prlog.org');
+insert into employee (id, name, birthday, email) values (4, 'Allsun Blaszczynski', '1901-2-6', 'ablaszczynski3@gravatar.com');
+insert into employee (id, name, birthday, email) values (5, 'Riordan Qualtrough', '1998-1-20', 'rqualtrough5@shutterfly.com');	
+insert into employee (id, name, birthday, email) values (6, 'Anabelle Whalley', '1970-2-26', 'awhalley6@plala.or.jp');	
+insert into employee (id, name, birthday, email) values (7, 'Lian Farlam', '1908-10-02', 'lfarlam7@soup.io'); 		
+insert into employee (id, name, birthday, email) values (8, 'Hyacinthe Dempster', '1903-08-04', 'hdempster8@blog.com'); 		
+insert into employee (id, name, birthday, email) values (9, 'Danette Hanington', '1906-07-18', 'dhanington9@mac.com'); 		
+insert into employee (id, name, birthday, email) values (10, 'Claretta McGarry', '1979-03-21', 'cmcgarrya@shinystat.com'); 		
+insert into employee (id, name, birthday, email) values (11, 'Hartley Lohden', '1943-10-04', 'hlohdenb@shutterfly.com');
+insert into employee (id, name, birthday, email) values (12, 'Kandace Mc Kellen', '1978-05-18	', 'kmcc@meetup.com');
+insert into employee (id, name, birthday, email) values (13, 'Teodora Ible', '1900-09-03', 'tibled@prweb.com');
+insert into employee (id, name, birthday, email) values (14, 'Marylynne McKie', '1951-01-30', 'mmckiee@alibaba.com');
+insert into employee (id, name, birthday, email) values (15, 'Stevana Straffon', '1937-06-13', 'sstraffonf@livejournal.com');
+insert into employee (id, name, birthday, email) values (16, 'Maritsa Najara', '1908-04-08', 'mnajarag@arizona.edu');
+insert into employee (id, name, birthday, email) values (17, 'Courtenay Drinkwater', '1940-05-05', 'cdrinkwaterh@yahoo.com');
+insert into employee (id, name, birthday, email) values (18, 'Burtie Gripton', '1946-06-04', 'bgriptoni@dell.com');
+insert into employee (id, name, birthday, email) values (19, 'Filberte Eeles', '1903-12-03', 'feelesj@quantcast.com');
+insert into employee (id, name, birthday, email) values (20, 'Monti MacNeilley', '1933-01-30', 'mmacneilleyk@scribd.com');
+insert into employee (id, name, birthday, email) values (21, 'Rriocard Asbery', '2000-06-17', 'rasberyl@themeforest.net');
+insert into employee (id, name, birthday, email) values (22, 'Bettine Drackford', '1984-05-06', 'bdrackfordm@nymag.com');
+insert into employee (id, name, birthday, email) values (23, 'Babb Ossenna', '1901-03-26', 'bossennan@goodreads.com');
+insert into employee (id, name, birthday, email) values (24, 'Sheena Iddy', '1926-08-22', 'siddyo@blog.com');
+insert into employee (id, name, birthday, email) values (25, 'Roxi Beyne', '1953-03-28', 'rbeynep@intel.com');
+insert into employee (id, name, birthday, email) values (26, 'Tiebold Bradock', '1958-01-27', 'tbradockq@cargocollective.com');
+insert into employee (id, name, birthday, email) values (27, 'Skip Maddin', '1957-08-22', 'smaddinr@cornell.edu');
+insert into employee (id, name, birthday, email) values (28, 'Frankie Westmancoat	', '1909-01-22', 'fwestmancoats@amazon.co.uk');
+insert into employee (id, name, birthday, email) values (29, 'Mitchell Errichi', '1929-06-27	', 'merrichit@clickbank.net');
+insert into employee (id, name, birthday, email) values (30, 'Dorian Friman', '1909-10-28', 'dfrimanu@networksolutions.com');
+insert into employee (id, name, birthday, email) values (31, 'Glen Tremoulet', '1912-02-03', 'gtremouletv@businesswire.com');
+insert into employee (id, name, birthday, email) values (32, 'Colin Cicci', '1908-06-08', 'ccicciw@bbc.co.uk');
+insert into employee (id, name, birthday, email) values (33, 'Cariotta Calwell', '1967-07-21', 'ccalwellx@clickbank.net');
+insert into employee (id, name, birthday, email) values (34, 'Konstance Drinkale', '1992-12-30', 'kdrinkaley@nymag.com');
+insert into employee (id, name, birthday, email) values (35, 'Bernita Ebben', '1960-10-31', 'bebbenz@php.net');
+insert into employee (id, name, birthday, email) values (36, 'Meredeth Hovenden', '1976-04-03', 'mhovenden10@europa.eu');
+insert into employee (id, name, birthday, email) values (37, 'Fancie Beddoes', '1906-12-14', 'fbeddoes11@list-manage.com');
+insert into employee (id, name, birthday, email) values (38, 'Ronny Scouler', '1939-11-22', 'rscouler12@weather.com');
+insert into employee (id, name, birthday, email) values (39, 'Ned Scrivenor', '1917-08-12', 'nscrivenor13@rakuten.co.jp');
+insert into employee (id, name, birthday, email) values (40, 'Claresta Wilmot', '1929-04-27', 'cwilmot14@friendfeed.com');
+insert into employee (id, name, birthday, email) values (41, 'Vasili Smallsman', '1917-08-08', 'vsmallsman15@geocities.com');
+insert into employee (id, name, birthday, email) values (42, 'Colan Benettelli', '1900-09-29', 'cbenettelli16@wiley.com');
+insert into employee (id, name, birthday, email) values (43, 'Doralynn Carslaw', '1994-01-26', 'dcarslaw17@sohu.com');
+insert into employee (id, name, birthday, email) values (44, 'Beatrisa Wilhelmy', '1965-12-14', 'bwilhelmy18@alibaba.com');
+insert into employee (id, name, birthday, email) values (45, 'Bernetta Hardaway', '1959-02-13', 'bhardaway19@wiley.com');
+insert into employee (id, name, birthday, email) values (46, 'Imelda Foxley', '1984-09-17', 'ifoxley1a@nationalgeographic.com');
+insert into employee (id, name, birthday, email) values (47, 'Port Pickless', '1988-03-06', 'ppickless1b@pen.io');
+insert into employee (id, name, birthday, email) values (48, 'Norry Coatsworth', '1998-03-23', 'ncoatsworth1c@kickstarter.com');
+insert into employee (id, name, birthday, email) values (49, 'Nikaniki Wakenshaw', '1993-08-22', 'nwakenshaw1d@example.com');
+insert into employee (id, name, birthday, email) values (50, 'Carl Best', '1992-3-7', 'cbest1d@a8.net');
+	
+3)
+UPDATE employee SET name = 'George Best' WHERE email = 'cbest1d@a8.net';
+UPDATE employee SET birthday = '2000-01-01' WHERE name = 'Worden Streets';
+UPDATE employee SET email = 'nikaniki@example.com' WHERE name = 'Nikaniki Wakenshaw';
+UPDATE employee SET name = 'Norry Sword' WHERE email = 'ncoatsworth1c@kickstarter.com';
+UPDATE employee SET birthday = '1999-01-01' WHERE name = 'Caryn Brundale';
+
+4)
+DELETE FROM employee WHERE id = 1;
+DELETE FROM employee WHERE name = 'Gabriel Burborough';
+DELETE FROM employee WHERE birthday = '6-29-1980';
+DELETE FROM employee WHERE email = 'gburborough0@github.com';
+DELETE FROM employee WHERE name = 'Gabriel Burborough' AND email = 'gburborough0@github.com';
