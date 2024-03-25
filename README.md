@@ -70,3 +70,26 @@
 3-Let's perform 5 UPDATE operations for each column that will update the other columns.
 
 4-Let's perform 5 DELETE operations that will delete the relevant row for each column.
+
+### Work 9
+1-Write the INNER JOIN query where we can see the city and country names in the city table and the country table together.
+
+2-Write the INNER JOIN query in which we can see the customer table, the payment_id in the payment table, and the first_name and last_name in the customer table together.
+
+3-Write the INNER JOIN query in which we can see the customer table, the rental_id in the rental table, and the first_name and last_name in the customer table together.
+
+### Work 10
+1-Write the LEFT JOIN query in which we can see the city and country names in the city table and the country table together.
+
+2-Write the RIGHT JOIN query in which we can see the customer table, the payment_id in the payment table, and the first_name and last_name in the customer table together.
+
+3-Write a FULL JOIN query in which we can see the customer table, the rental_id in the rental table, and the first_name and last_name in the customer table together.
+
+### Work 11
+1-Let's sort all the data for the first_name columns in the actor and customer tables.
+
+2-Let's list the intersecting data for the first_name columns in the actor and customer tables.
+
+3-For the first_name columns in the actor and customer tables, let's list the data that is in the first table but not in the second table.
+
+4-Let's make the first 3 queries for repeating data.
