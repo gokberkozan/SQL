@@ -61,3 +61,12 @@
 3-What are the customer numbers corresponding to the store_id values ​​in the customer table?
 
 4-After grouping the city data in the city table according to the country_id column, share the country_id information and the number of cities that contain the highest number of cities.
+
+### Work 8
+1-Let's create a table named employee in your test database with column information id(INTEGER), name VARCHAR(50), birthday DATE, email VARCHAR(100).
+
+2-Let's add 50 data to the employee table we created using the 'Mockaroo' service.
+
+3-Let's perform 5 UPDATE operations for each column that will update the other columns.
+
+4-Let's perform 5 DELETE operations that will delete the relevant row for each column.
