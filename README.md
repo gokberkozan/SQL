@@ -93,3 +93,12 @@
 3-For the first_name columns in the actor and customer tables, let's list the data that is in the first table but not in the second table.
 
 4-Let's make the first 3 queries for repeating data.
+
+### Work 12
+1-In the movie table, the movie length is shown in the length column. How many movies are longer than the average movie length?
+
+2-How many movies have the highest rental_rate in the movie table?
+
+3-In the movie table, list the movies with the lowest rental_rate and lowest replacement_cost values.
+
+4-List the customers who made the most purchases in the payment table.
